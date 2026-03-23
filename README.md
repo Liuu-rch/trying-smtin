@@ -7,9 +7,9 @@
 * .gitignore file
 * and an .exe (*dont know what to call it*)
 
-`printf("Welcome to all cat people!");`
+`printf("Welcome to all cat people!");`  
  
-[That human who posts cute cats on X (twitter)](https://x.com/catheartmemes)
+[That human who posts cute cats on X (twitter)](https://x.com/catheartmemes)  
 
 ![Furball](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrYqG-uWAAOpqqvYDt5TnU63jGigmPu9Jl9A&s)
 
@@ -33,7 +33,7 @@ this is a <sup>SUPERSCRIPT?</sup>\
 
 this is for uoting `code` stuff
 
-the same this but for muti-lines ig\
+the same this but for muti-lines ig
 ```
 sudo pacman -Syu
 Y
@@ -46,17 +46,17 @@ printf("Hello World is so spammed");
 
 if i do this: #ffffff. woul it be the same as this: `#ffffff` ?\
 `rgb(85, 163, 47)`\
-`hsl(0, 67%, 32%)`\
+`hsl(0, 67%, 32%)`
 
 
 
 ## Trying Links
 
-this is a normal link: www.youtube.com/\
+this is a normal link: www.youtube.com/  
 this is when i wanna hide it or idk: [Youtube](www.youtube.com/)\
 hmm `www.youtube.com/`\
 link to the first section? [Title](#getting-use-to-git--github-)\
-link to relative [RELATIVE.md](/RELATIVE.md)\
+link to relative [RELATIVE.md](/RELATIVE.md)
 
 
 
@@ -69,10 +69,10 @@ link to relative [RELATIVE.md](/RELATIVE.md)\
 
 ## Trying task lists :3
 
-- [] to do one
-- [] to do two
+- [ ] to do one
+- [ ] to do two
 - [x] to do three
-- [] to do four
+- [ ] to do four
 
 
 
